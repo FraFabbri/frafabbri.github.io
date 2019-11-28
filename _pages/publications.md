@@ -1,16 +1,21 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+2018
+===
+***
+**<span style="color:blue">*Assessing the interdependencies between scientific disciplinary profiles*</span>** <a href="https://link.springer.com/content/pdf/10.1007%2Fs11192-018-2816-5.pdf"><i class="fas fa-file-pdf"></i></a><br/>Daraio C., **Fabbri F.**, Gavazzi G., Izzo M. G., Leuzzi L., Quaglia G., & Ruocco G. (2018), Scientometrics, 116(3), 1785-1803.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+
+
+
+2017
+===
+***
+**<span style="color:blue">*Assessing the interdependencies between scientific disciplinary profiles at the country level: A pseudo-likelihood approach*</span>**<br/>Daraio C., Fabbri F., Gavazzi G., Izzo M. G., Leuzzi L., Quaglia G., & Ruocco G. (2017). In 2017 ISSI Conference Proceedings. China: Wuhan University (pp. 1448-1459).
