@@ -19,4 +19,4 @@ sitemap: false
 2017
 ===
 ***
-**<span style="color:blue">*Assessing the interdependencies between scientific disciplinary profiles at the country level: A pseudo-likelihood approach*</span>**<br/>Daraio C., Fabbri F., Gavazzi G., Izzo M. G., Leuzzi L., Quaglia G., & Ruocco G. (2017). In 2017 ISSI Conference Proceedings. China: Wuhan University (pp. 1448-1459).
+**<span style="color:blue">*Assessing the interdependencies between scientific disciplinary profiles at the country level: A pseudo-likelihood approach*</span>**<br/>Daraio C., **Fabbri F.**, Gavazzi G., Izzo M. G., Leuzzi L., Quaglia G., & Ruocco G. (2017). In 2017 ISSI Conference Proceedings. China: Wuhan University (pp. 1448-1459).
