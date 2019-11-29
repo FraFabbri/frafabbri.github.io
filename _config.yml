@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Francesco Fabbri"
-  avatar           : "profile.png"
+  avatar           : "image_scholar.jpeg"
   bio              : #"Your biography for the left-hand sidebar"
   location         : "Barcelona, Spain"
   employer         :
@@ -199,13 +199,16 @@ defaults:
       comments: true
       share: true
       related: true
+      sitemap: false
   # _pages
   - scope:
       path: ""
       type: pages
+      sitemap: false
     values:
       layout: single
       author_profile: true
+      sitemap: false
   # _teaching
   - scope:
       path: ""
@@ -224,6 +227,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      sitemap: false
   # _portfolio
   - scope:
       path: ""
