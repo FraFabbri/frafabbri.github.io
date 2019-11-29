@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Francesco Fabbri website"
+title                    : "Francesco Fabbri"
 title_separator          : "-"
 name                     : &name "Francesco Fabbri"
 description              : &description "Personal website PhD student UPF Barcelona"
