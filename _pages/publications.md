@@ -6,6 +6,13 @@ author_profile: true
 sitemap: false
 ---
 
+2020
+===
+***
+**<span style="color:blue">*The Effect of Homophily on Disparate Visibility of Minorities in People Recommender Systems*</span>** </a><br/>**Fabbri F.**, Bonchi F., Boratto L., Castillo C.(2020), *under review*
+
+**<span style="color:blue">*From The Beatles to Billie Eilish: Connecting Provider Representativeness and Exposure in Session-based Recommender Systems*</span>** </a><br/>Ariza A., **Fabbri F.**, Boratto L., Salamò M.(2020), *under review*
+
 
 2018
 ===
