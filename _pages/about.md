@@ -25,5 +25,5 @@ Last News
 
 * **Nov 2019** Notified to have been selected to take part with travel support at the [HUMAINT Winter School 2020](https://ec.europa.eu/jrc/communities/en/community/humaint/event/2nd-humaint-winter-school-fairness-accountability-and-transparency)
 * **Sep 2019** Successfully defended my research proposal, with title *Fair Recommender Systems for Graphs and Sequence Data*
-
+* **Jan 2020** Paper accepted at ICWSM 2020 (16% acceptance rate)
 
