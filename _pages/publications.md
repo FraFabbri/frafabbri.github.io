@@ -9,7 +9,8 @@ sitemap: false
 2020
 ===
 ***
-**<span style="color:blue">*The Effect of Homophily on Disparate Visibility of Minorities in People Recommender Systems*</span>** <br/>**Fabbri F.**, Bonchi F., Boratto L., Castillo C., In Proceedings of The 14th International AAAI Conference on Web and Social Media (ICWSM 2020) AAAI, June 8-11, 2020, Atlanta, Georgia, USA.
+**<span style="color:blue">*The Effect of Homophily on Disparate Visibility of Minorities in People Recommender Systems*</span>** [PDF](/files/icwsm20FabbriF.pdf)
+  <br/>**Fabbri F.**, Bonchi F., Boratto L., Castillo C., In Proceedings of The 14th International AAAI Conference on Web and Social Media (ICWSM 2020) AAAI, June 8-11, 2020, Atlanta, Georgia, USA.
 
 **<span style="color:blue">*From The Beatles to Billie Eilish: Connecting Provider Representativeness and Exposure in Session-based Recommender Systems*</span>** <br/>Ariza A., **Fabbri F.**, Boratto L., Salamò M., *under review*
 
