@@ -22,7 +22,11 @@ During my study I've been awarded with a research scholarship at DIAG (Departmen
 
 Last News
 ======
-* **Jan 2020** Paper accepted at ICWSM 2020 (16% acceptance rate)
-* **Nov 2019** Notified to have been selected to take part with travel support at the [HUMAINT Winter School 2020](https://ec.europa.eu/jrc/communities/en/community/humaint/event/2nd-humaint-winter-school-fairness-accountability-and-transparency)
-* **Sep 2019** Successfully defended my research proposal, with title *Fair Recommender Systems for Graphs and Sequence Data*
 
+
+* **June 2020** I'll be joining the PC of [RecSys 2020](https://recsys.acm.org/recsys20/) (Demo Track)
+* **June 2020** I'll present at ICWSM the paper *The Effect of Homophily on Disparate Visibility of Minorities in People Recommender Systems*. [Here](https://www.youtube.com/watch?v=fcg1mZJUnzc) the video.
+* **Apr 2020** I'll be joining the PC of [ECML-PKDD 2020](https://ecmlpkdd2020.net/) (ADS track)
+* **Jan 2020** Paper accepted at ICWSM 2020 (16% acceptance rate)
+* **Nov 2019** Notified to have been selected to take part with travel support at the [HUMAINT Winter School 2020](https://ec.europa.eu/jrc/communities/en/community/humaint/event/2nd-humaint-winter-school-fairness-accountability-and-transparency)!
+* **Sep 2019** Successfully defended my research proposal, with title *Fair Recommender Systems for Graphs and Sequence Data*.
