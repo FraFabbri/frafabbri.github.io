@@ -23,9 +23,10 @@ During my study I've been awarded with a research scholarship at DIAG (Departmen
 Last News
 ======
 
-
-* **June 2020** I'll be joining the PC of [RecSys 2020](https://recsys.acm.org/recsys20/) (Demo Track)
-* **June 2020** I'll present at ICWSM the paper *The Effect of Homophily on Disparate Visibility of Minorities in People Recommender Systems*. [Here](https://www.youtube.com/watch?v=fcg1mZJUnzc) the video.
+* **Aug 2020** Glad to present the ICWSM paper at the 4th workshop on Mechanism Design for Social Good ([MD4SG '20](http://md4sg.com/workshop/MD4SG20/index.html)).  
+* **Aug 2020** Super excited to spend next three months at University of Helsinki, for a research internship, working with [Michael Mathioudakis](https://michalis.co/).
+* **Jun 2020** I'll be joining the PC of [RecSys 2020](https://recsys.acm.org/recsys20/) (Demo Track and LBR)
+* **Jun 2020** I'll present at ICWSM the paper *The Effect of Homophily on Disparate Visibility of Minorities in People Recommender Systems*. [Here](https://www.youtube.com/watch?v=fcg1mZJUnzc) the video.
 * **Apr 2020** I'll be joining the PC of [ECML-PKDD 2020](https://ecmlpkdd2020.net/) (ADS track)
 * **Jan 2020** Paper accepted at ICWSM 2020 (16% acceptance rate)
 * **Nov 2019** Notified to have been selected to take part with travel support at the [HUMAINT Winter School 2020](https://ec.europa.eu/jrc/communities/en/community/humaint/event/2nd-humaint-winter-school-fairness-accountability-and-transparency)!
