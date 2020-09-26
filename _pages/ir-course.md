@@ -4,10 +4,6 @@ permalink: /ir-course/
 excerpt: "IR course"
 author_profile: true
 sitemap: false
-redirect_from: 
-  - /ir-course/
-  - /ir-course.html
-
 ---
 
 ## Course
