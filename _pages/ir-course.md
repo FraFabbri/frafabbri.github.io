@@ -1,7 +1,13 @@
 ---
 title: "Information Retrieval and Web Analytics"
-sitemap: false
 permalink: /ir-course.html
+excerpt: "IR course"
+author_profile: true
+sitemap: false
+redirect_from: 
+  - /ir-course/
+  - /ir-course.html
+
 ---
 
 ## Course
