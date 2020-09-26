@@ -1,6 +1,6 @@
 ---
 title: "Information Retrieval and Web Analytics"
-permalink: /ir-course.html
+permalink: /ir-course/
 excerpt: "IR course"
 author_profile: true
 sitemap: false
