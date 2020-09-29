@@ -20,7 +20,7 @@ here we post news and deadlines
 
 ## Teaching Assistant
 
-[Francesco Fabbri](frafabbri.github.io)
+[Francesco Fabbri](https://frafabbri.github.io)
 
 [Matteo Manca](https://www.linkedin.com/in/matteo-manca-72712820/)
 
