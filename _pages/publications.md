@@ -9,7 +9,7 @@ sitemap: false
 2020
 ===
 
-**<span style="color:blue">*Streaming Submodular Maximization with Fairness Constraints*</span>**  Wang Y., **Fabbri F.**, & Mathioudakis M. (2020), arXiv preprint <a href="https://arxiv.org/pdf/2010.04412.pdf"><i class="fas fa-file-pdf"></i></a>, *under review*
+**<span style="color:blue">*Streaming Submodular Maximization with Fairness Constraints*</span>**  Wang Y., **Fabbri F.**, Mathioudakis M. (2020), arXiv preprint <a href="https://arxiv.org/pdf/2010.04412.pdf"><i class="fas fa-file-pdf"></i></a>, *under review*
 
 
 
