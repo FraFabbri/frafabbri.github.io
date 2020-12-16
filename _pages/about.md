@@ -23,6 +23,8 @@ During my study I've been awarded with a research scholarship at DIAG (Departmen
 Last News
 ======
 
+
+* **Dec 2020** Paper *"From The Beatles to Billie Eilish: Connecting Provider Representativeness and Exposure in Session-based Recommender Systems"* accepted at ECIR 2021! Soon the preprint out.
 * **Aug 2020** Glad to present the ICWSM paper at the 4th workshop on Mechanism Design for Social Good ([MD4SG '20](http://md4sg.com/workshop/MD4SG20/index.html)).  
 * **Aug 2020** Super excited to spend next three months at University of Helsinki, for a research internship, working with [Michael Mathioudakis](https://michalis.co/).
 * **Jun 2020** I'll be joining the PC of [RecSys 2020](https://recsys.acm.org/recsys20/) (Demo and LBR Tracks)
