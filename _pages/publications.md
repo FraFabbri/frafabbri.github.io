@@ -16,7 +16,7 @@ sitemap: false
 ***
 **<span style="color:blue">*The Effect of Homophily on Disparate Visibility of Minorities in People Recommender Systems*</span>** <a href="https://frafabbri.github.io/files/icwsm20FabbriF.pdf"><i class="fas fa-file-pdf"></i></a> **Fabbri F.**, Bonchi F., Boratto L., Castillo C., In Proceedings of The 14th International AAAI Conference on Web and Social Media (ICWSM 2020) AAAI, June 8-11, 2020, Atlanta, Georgia, USA.
 
-**<span style="color:blue">*From The Beatles to Billie Eilish: Connecting Provider Representativeness and Exposure in Session-based Recommender Systems*</span>** Ariza A., **Fabbri F.**, Boratto L., Salamò M., *under review*
+**<span style="color:blue">*From The Beatles to Billie Eilish: Connecting Provider Representativeness and Exposure in Session-based Recommender Systems*</span>** Ariza A., **Fabbri F.**, Boratto L., Salamò M., *accepted* at ECIR 2021
 
 
 
