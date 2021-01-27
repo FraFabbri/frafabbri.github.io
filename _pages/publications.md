@@ -10,7 +10,7 @@ sitemap: false
 ===
 ***
 
-**<span style="color:blue">*Streaming Submodular Maximization with Fairness Constraints*</span>**  Wang Y., **Fabbri F.**, Mathioudakis M. <a href="https://arxiv.org/pdf/2010.04412.pdf"><i class="fas fa-file-pdf"></i></a> *accepted at TheWebConf 2021*
+**<span style="color:blue">*Fair and Representative Subset Selection from Data Streams*</span>** <a href="https://arxiv.org/pdf/2010.04412.pdf"><i class="fas fa-file-pdf"></i></a> Wang Y., **Fabbri F.**, Mathioudakis M. *accepted at TheWebConf 2021*
 
 **<span style="color:blue">*From The Beatles to Billie Eilish: Connecting Provider Representativeness and Exposure in Session-based Recommender Systems*</span>** <a href="https://frafabbri.github.io/files/ecir2021.pdf"><i class="fas fa-file-pdf"></i></a> Ariza A., **Fabbri F.**, Boratto L., Salamò M.,  *accepted* at ECIR 2021
 
