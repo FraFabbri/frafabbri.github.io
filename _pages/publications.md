@@ -10,10 +10,10 @@ sitemap: false
 ===
 ***
 
-**<span style="color:blue">*Comparing equity and effectiveness of different algorithms in an application for the room rental market*</span>** Solans D., **Fabbri F.**, Calsamiglia C., Castillo C., Bonchi F. *accepted at AIES 2021*
+**<span style="color:blue">*Comparing equity and effectiveness of different algorithms in an application for the room rental market*</span>** Solans D., **Fabbri F.**, Calsamiglia C., Castillo C., Bonchi F. In Proceedings of the 4th AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES 2021)
 
 
-**<span style="color:blue">*Fair and Representative Subset Selection from Data Streams*</span>** <a href="https://arxiv.org/pdf/2010.04412.pdf"><i class="fas fa-file-pdf"></i></a> Wang Y., **Fabbri F.**, Mathioudakis M. *accepted at TheWebConf 2021*
+**<span style="color:blue">*Fair and Representative Subset Selection from Data Streams*</span>** <a href="https://arxiv.org/pdf/2010.04412.pdf"><i class="fas fa-file-pdf"></i></a> Wang Y., **Fabbri F.**, In Proceedings of The World Wide Web Conference (WWW 2021)
 
 **<span style="color:blue">*From The Beatles to Billie Eilish: Connecting Provider Representativeness and Exposure in Session-based Recommender Systems*</span>** <a href="https://frafabbri.github.io/files/ecir2021.pdf"><i class="fas fa-file-pdf"></i></a> Ariza A., **Fabbri F.**, Boratto L., Salamò M., *accepted* at ECIR 2021
 
