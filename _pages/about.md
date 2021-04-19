@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year Ph.D. student at UPF, Barcelona, working mainly on Algorithmic Fairness, with a particular focus on Recommender Systems. My work focuses on analyzing and mitigating unintended and potentially harmful effects embedded in online social platforms (e.g. social networks, music streaming platforms, rental marketplaces, etc...). 
+I am a 3rd year Ph.D. student at UPF, Barcelona, working on Algorithmic Fairness, with a particular focus on Recommender Systems. My work focuses on analyzing and mitigating unintended and potentially harmful effects embedded in online social platforms (e.g. social networks, music streaming platforms, rental marketplaces, etc...). 
 
 I am supported by the Vicente López scholarship, awarded by [Eurecat, Research Center in Catalunya](https://eurecat.org/) and I am luckily advised by Dr. [Francesco Bonchi](http://www.francescobonchi.com) and Prof. [Carlos Castillo](https://chato.cl).
 
