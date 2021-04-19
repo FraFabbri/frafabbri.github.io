@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 2nd year Ph.D. student at UPF, Barcelona, working mainly on Algorithmic Fairness, with a particular focus on Recommender Systems. 
+I am a 3rd year Ph.D. student at UPF, Barcelona, working mainly on Algorithmic Fairness, with a particular focus on Recommender Systems. My work focuses on analyzing and mitigating unintended and potentially harmful effects embedded in online social platforms (e.g. social networks, music streaming platforms, rental marketplaces, etc...). 
 
-I'm supported by the Vicente López scholarship, awarded by [Eurecat, Research Center in Catalunya](https://eurecat.org/) and I'm luckily advised by Dr. [Francesco Bonchi](http://www.francescobonchi.com) and Prof. [Carlos Castillo](https://chato.cl).
+I am supported by the Vicente López scholarship, awarded by [Eurecat, Research Center in Catalunya](https://eurecat.org/) and I am luckily advised by Dr. [Francesco Bonchi](http://www.francescobonchi.com) and Prof. [Carlos Castillo](https://chato.cl).
 
-Prior to start my PhD, I've been awarded with a full grant to participate the 8 weeks study program in Artificial Intelligence at [Pi School](https://picampus-school.com/programme/school-of-ai/), Rome, Italy.
+Prior to start my PhD, I have been awarded with a full grant to participate the 8 weeks study program in Artificial Intelligence at [Pi School](https://picampus-school.com/programme/school-of-ai/), Rome, Italy.
 
 I received my Master's Degree (Honours) in Data Science and Bachelor of Science in Statistics from Sapienza, University of Rome. 
 
-During my study I've been awarded with a research scholarship at DIAG (Department of Computer, Control and Management Engineering), concerning the development and application of data analysis techniques in bibliometrics.
+During my study I have been awarded with a research scholarship at DIAG (Department of Computer, Control and Management Engineering), concerning the development and application of data analysis techniques in bibliometrics.
 
 
 
