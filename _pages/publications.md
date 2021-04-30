@@ -10,7 +10,7 @@ sitemap: false
 ===
 ***
 
-**<span style="color:blue">*Comparing equity and effectiveness of different algorithms in an application for the room rental market*</span>** Solans D., **Fabbri F.**, Calsamiglia C., Castillo C., Bonchi F. In Proceedings of the 4th AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES 2021)
+**<span style="color:blue">*Comparing equity and effectiveness of different algorithms in an application for the room rental market*</span>** Solans D., **Fabbri F.**, Calsamiglia C., Castillo C., Bonchi F. In Proceedings of the 4th AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES 2021) <a href="https://frafabbri.github.io/files/AIES2021.pdf"><i class="fas fa-file-pdf"></i></a>
 
 
 **<span style="color:blue">*Fair and Representative Subset Selection from Data Streams*</span>** <a href="https://arxiv.org/pdf/2010.04412.pdf"><i class="fas fa-file-pdf"></i></a> Wang Y., **Fabbri F.**, In Proceedings of The World Wide Web Conference (WWW 2021)
