@@ -13,21 +13,21 @@ sitemap: false
 **<span style="color:blue">*Comparing equity and effectiveness of different algorithms in an application for the room rental market*</span>** Solans D., **Fabbri F.**, Calsamiglia C., Castillo C., Bonchi F. In Proceedings of the 4th AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES 2021) <a href="https://frafabbri.github.io/files/AIES2021.pdf"><i class="fas fa-file-pdf"></i></a>
 
 
-**<span style="color:blue">*Fair and Representative Subset Selection from Data Streams*</span>** <a href="https://arxiv.org/pdf/2010.04412.pdf"><i class="fas fa-file-pdf"></i></a> Wang Y., **Fabbri F.**, In Proceedings of The World Wide Web Conference (WWW 2021)
+**<span style="color:blue">*Fair and Representative Subset Selection from Data Streams*</span>** Wang Y., **Fabbri F.**, In Proceedings of The World Wide Web Conference (WWW 2021) <a href="https://arxiv.org/pdf/2010.04412.pdf"><i class="fas fa-file-pdf"></i></a>
 
-**<span style="color:blue">*From The Beatles to Billie Eilish: Connecting Provider Representativeness and Exposure in Session-based Recommender Systems*</span>** <a href="https://frafabbri.github.io/files/ecir2021.pdf"><i class="fas fa-file-pdf"></i></a> Ariza A., **Fabbri F.**, Boratto L., Salamò M., *accepted* at ECIR 2021
+**<span style="color:blue">*From The Beatles to Billie Eilish: Connecting Provider Representativeness and Exposure in Session-based Recommender Systems*</span>**  Ariza A., **Fabbri F.**, Boratto L., Salamò M., *accepted* In Proceedings of Advances in Information Retrieval: 43rd European Conference on IR Research, ECIR 2021, Virtual Event, March 28–April 1, 2021, Proceedings, Part II. Springer Nature. <a href="https://frafabbri.github.io/files/ecir2021.pdf"><i class="fas fa-file-pdf"></i></a>
 
 
 2020
 ===
 ***
 
-**<span style="color:blue">*The Effect of Homophily on Disparate Visibility of Minorities in People Recommender Systems*</span>** <a href="https://frafabbri.github.io/files/icwsm20FabbriF.pdf"><i class="fas fa-file-pdf"></i></a> **Fabbri F.**, Bonchi F., Boratto L., Castillo C., In Proceedings of The 14th International AAAI Conference on Web and Social Media (ICWSM 2020) AAAI, June 8-11, 2020, Atlanta, Georgia, USA.
+**<span style="color:blue">*The Effect of Homophily on Disparate Visibility of Minorities in People Recommender Systems*</span>** **Fabbri F.**, Bonchi F., Boratto L., Castillo C., In Proceedings of The 14th International AAAI Conference on Web and Social Media (ICWSM 2020) AAAI, June 8-11, 2020, Atlanta, Georgia, USA. <a href="https://frafabbri.github.io/files/icwsm20FabbriF.pdf"><i class="fas fa-file-pdf"></i></a>
 
 2018
 ===
 ***
-**<span style="color:blue">*Assessing the interdependencies between scientific disciplinary profiles*</span>** <a href="https://link.springer.com/content/pdf/10.1007%2Fs11192-018-2816-5.pdf"><i class="fas fa-file-pdf"></i></a> Daraio C., **Fabbri F.**, Gavazzi G., Izzo M. G., Leuzzi L., Quaglia G., & Ruocco G. (2018), Scientometrics, 116(3), 1785-1803.
+**<span style="color:blue">*Assessing the interdependencies between scientific disciplinary profiles*</span>**  Daraio C., **Fabbri F.**, Gavazzi G., Izzo M. G., Leuzzi L., Quaglia G., & Ruocco G. (2018), Scientometrics, 116(3), 1785-1803.
 
 2017
 ===
