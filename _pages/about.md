@@ -23,6 +23,7 @@ During my study I have been awarded with a research scholarship at DIAG (Departm
 Last News
 ======
 
+* **Aug 2021** Excited to join Huawei Ireland Research Center for an internship in Federated Recommender Systems!
 * **Apr 2021** *Comparing equity and effectiveness of different algorithms in an application for the room rental market* accepted at *AIES 2021* (27.7% acceptance rate)
 * **Feb 2021** Giving a talk at [Fair February](https://events.brown.edu/dsi/view/event/event_id/199275) initiative at Brown University, presenting some new (exciting) preliminary results on *long-term effects of homophily over people recommender systems*.
 * **Jan 2021** *Fair and Representative Subset Selection from Data Streams* accepted at *theWebConf 2021* (20.6% acceptance rate). [Here](https://tuhat.helsinki.fi/ws/portalfiles/portal/160658430/main.pdf) the preprint!
