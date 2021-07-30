@@ -13,7 +13,7 @@ sitemap: false
 **<span style="color:blue">*Comparing equity and effectiveness of different algorithms in an application for the room rental market*</span>** Solans D., **Fabbri F.**, Calsamiglia C., Castillo C., Bonchi F. In Proceedings of the 4th AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (**AIES 2021**) <a href="https://frafabbri.github.io/files/AIES2021.pdf"><i class="fas fa-file-pdf"></i></a>
 
 
-**<span style="color:blue">*Fair and Representative Subset Selection from Data Streams*</span>** Wang Y., **Fabbri F.**, In Proceedings of The World Wide Web Conference (**WWW 2021**) <a href="https://arxiv.org/pdf/2010.04412.pdf"><i class="fas fa-file-pdf"></i></a>
+**<span style="color:blue">*Fair and Representative Subset Selection from Data Streams*</span>** Wang Y., **Fabbri F.**, Mathioudakis M., In Proceedings of The World Wide Web Conference (**WWW 2021**) <a href="https://arxiv.org/pdf/2010.04412.pdf"><i class="fas fa-file-pdf"></i></a>
 
 **<span style="color:blue">*From The Beatles to Billie Eilish: Connecting Provider Representativeness and Exposure in Session-based Recommender Systems*</span>**  Ariza A., **Fabbri F.**, Boratto L., Salamò M., *accepted* In Proceedings of Advances in Information Retrieval: 43rd European Conference on IR Research, **ECIR 2021**, Virtual Event, March 28–April 1, 2021, Proceedings, Part II. Springer Nature. <a href="https://frafabbri.github.io/files/ecir2021.pdf"><i class="fas fa-file-pdf"></i></a>
 
