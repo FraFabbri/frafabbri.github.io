@@ -6,6 +6,19 @@ author_profile: true
 sitemap: false
 ---
 
+
+2022
+===
+***
+
+
+**<span style="color:blue">*Exposure Inequality in People Recommender Systems: The Long-Term Effects*</span>** **Fabbri F.**, Croci M.L., Bonchi F., Castillo C., In Proceedings of The 16th International AAAI Conference on Web and Social Media (**ICWSM 2022**) AAAI, June 6-9, 2022, Atlanta, Georgia, USA.
+
+
+
+**<span style="color:blue">*Streaming Algorithms for Diversity Maximization with Fairness Constraints.*</span>** Wang, Y., **Fabbri, F.,** & Mathioudakis, M., In IEEE International Conference on Data Engineering 2022: (**ICDE 2022**) <a href="https://arxiv.org/pdf/2010.04412.pdf"><i class="fas fa-file-pdf"></i></a>
+
+
 2021
 ===
 ***
@@ -15,7 +28,7 @@ sitemap: false
 
 **<span style="color:blue">*Fair and Representative Subset Selection from Data Streams*</span>** Wang Y., **Fabbri F.**, Mathioudakis M., In Proceedings of The World Wide Web Conference (**WWW 2021**) <a href="https://arxiv.org/pdf/2010.04412.pdf"><i class="fas fa-file-pdf"></i></a>
 
-**<span style="color:blue">*From The Beatles to Billie Eilish: Connecting Provider Representativeness and Exposure in Session-based Recommender Systems*</span>**  Ariza A., **Fabbri F.**, Boratto L., Salamò M., *accepted* In Proceedings of Advances in Information Retrieval: 43rd European Conference on IR Research, **ECIR 2021**, Virtual Event, March 28–April 1, 2021, Proceedings, Part II. Springer Nature. <a href="https://frafabbri.github.io/files/ecir2021.pdf"><i class="fas fa-file-pdf"></i></a>
+**<span style="color:blue">*From The Beatles to Billie Eilish: Connecting Provider Representativeness and Exposure in Session-based Recommender Systems*</span>**  Ariza A., **Fabbri F.**, Boratto L., Salamò M., *accepted* In Proceedings of Advances in Information Retrieval: 43rd European Conference on IR Research, (**ECIR 2021**), Virtual Event, March 28–April 1, 2021, Proceedings, Part II. Springer Nature. <a href="https://frafabbri.github.io/files/ecir2021.pdf"><i class="fas fa-file-pdf"></i></a>
 
 
 2020
