@@ -22,7 +22,7 @@ During my study I have been awarded with a research scholarship at DIAG (Departm
 
 Last News
 ======
-
+* **Nov 2021** New paper *Exposure Inequality in People Recommender Systems: The Long-Term Effects* accepted at ICWSM 2022!
 * **Aug 2021** Excited to join Huawei Ireland Research Center for an internship in Federated Recommender Systems!
 * **Apr 2021** *Comparing equity and effectiveness of different algorithms in an application for the room rental market* accepted at *AIES 2021* (27.7% acceptance rate)
 * **Feb 2021** Giving a talk at [Fair February](https://events.brown.edu/dsi/view/event/event_id/199275) initiative at Brown University, presenting some new (exciting) preliminary results on *long-term effects of homophily over people recommender systems*.
