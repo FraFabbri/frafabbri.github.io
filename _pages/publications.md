@@ -17,7 +17,7 @@ sitemap: false
 
 
 
-**<span style="color:blue">*Streaming Algorithms for Diversity Maximization with Fairness Constraints.*</span>** Wang, Y., **Fabbri, F.,** & Mathioudakis, M., In IEEE International Conference on Data Engineering 2022: (**ICDE 2022**) <a href="https://arxiv.org/pdf/2010.04412.pdf"><i class="fas fa-file-pdf"></i></a>
+**<span style="color:blue">*Streaming Algorithms for Diversity Maximization with Fairness Constraints.*</span>** Wang, Y., **Fabbri, F.,** & Mathioudakis, M., In IEEE International Conference on Data Engineering 2022: (**ICDE 2022**)
 
 
 2021
