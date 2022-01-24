@@ -11,8 +11,9 @@ sitemap: false
 ===
 ***
 
+**<span style="color:blue">*Rewiring What-To-Watch-next Recommendations to Reduce Radicalization Pathways*</span>** **Fabbri F.**, Wang Y., Bonchi F., Castillo C., Mathioudakis M., In Proceedings of The World Wide Web Conference (**WWW 2022**)
 
-**<span style="color:blue">*Exposure Inequality in People Recommender Systems: The Long-Term Effects*</span>** **Fabbri F.**, Croci M.L., Bonchi F., Castillo C., In Proceedings of The 16th International AAAI Conference on Web and Social Media (**ICWSM 2022**) AAAI, June 6-9, 2022, Atlanta, Georgia, USA.
+**<span style="color:blue">*Exposure Inequality in People Recommender Systems: The Long-Term Effects*</span>** **Fabbri F.**, Croci M.L., Bonchi F., Castillo C., In Proceedings of The 16th International AAAI Conference on Web and Social Media (**ICWSM 2022**) AAAI, June 6-9, 2022, Atlanta, Georgia, USA. <a href="https://arxiv.org/pdf/2112.08237.pdf"><i class="fas fa-file-pdf"></i></a>
 
 
 

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year Ph.D. student at UPF, Barcelona, working on Algorithmic Fairness, with a particular focus on Recommender Systems. My work focuses on analyzing and mitigating unintended and potentially harmful effects embedded in online social platforms (e.g. social networks, music streaming platforms, rental marketplaces, etc...). 
+I am a 4th year Ph.D. student at UPF, Barcelona, working on Algorithmic Fairness, with a particular focus on Recommender Systems. My work focuses on analyzing and mitigating unintended and potentially harmful effects embedded in online social platforms (e.g. social networks, music streaming platforms, rental marketplaces, etc...). 
 
 I am supported by the Vicente López scholarship, awarded by [Eurecat, Research Center in Catalunya](https://eurecat.org/) and I am luckily advised by Dr. [Francesco Bonchi](http://www.francescobonchi.com) and Prof. [Carlos Castillo](https://chato.cl).
 
@@ -22,6 +22,7 @@ During my study I have been awarded with a research scholarship at DIAG (Departm
 
 Last News
 ======
+* **Jan 2022** New paper accepted *Rewiring What-to-Watch-Next Recommendations to Reduce Radicalization Pathways* at theWebConf 2022!
 * **Nov 2021** New paper *Exposure Inequality in People Recommender Systems: The Long-Term Effects* accepted at ICWSM 2022!
 * **Aug 2021** Excited to join Huawei Ireland Research Center for an internship in Federated Recommender Systems!
 * **Apr 2021** *Comparing equity and effectiveness of different algorithms in an application for the room rental market* accepted at *AIES 2021* (27.7% acceptance rate)
