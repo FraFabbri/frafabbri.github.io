@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year Ph.D. student at UPF, Barcelona, working on Algorithmic Fairness, with a particular focus on Recommender Systems. My work focuses on analyzing and mitigating unintended and potentially harmful effects embedded in online social platforms (e.g. social networks, music streaming platforms, rental marketplaces, etc...). 
+I am a Research Scientist at Spotify. 
 
-I am supported by the Vicente López scholarship, awarded by [Eurecat, Research Center in Catalunya](https://eurecat.org/) and I am luckily advised by Dr. [Francesco Bonchi](http://www.francescobonchi.com) and Prof. [Carlos Castillo](https://chato.cl).
+Previously, I received (cum laude) my Ph.D. in Computer Science, at Pompeu Fabra University, Barcelona. My work focused on analyzing and mitigating unintended and potentially harmful effects embedded in online social platforms (e.g. social networks, music streaming platforms, rental marketplaces, etc...). 
+
+I was supported by the Vicente López scholarship, awarded by [Eurecat, Research Center in Catalunya](https://eurecat.org/) and I was luckily advised by Dr. [Francesco Bonchi](http://www.francescobonchi.com) and Prof. [Carlos Castillo](https://chato.cl).
 
 Prior to start my PhD, I have been awarded with a full grant to participate the 8 weeks study program in Artificial Intelligence at [Pi School](https://picampus-school.com/programme/school-of-ai/), Rome, Italy.
 
@@ -22,6 +24,8 @@ During my study I have been awarded with a research scholarship at DIAG (Departm
 
 Last News
 ======
+* **Oct 2022** I defended my Ph.D. Thesis on *"Algorithmic Bias in Graph-Based Recommender Systems"* (cum laude).
+* **Sep 2022** I joined Spotify as Research Scientist!
 * **Jan 2022** New paper accepted *Rewiring What-to-Watch-Next Recommendations to Reduce Radicalization Pathways* at theWebConf 2022!
 * **Nov 2021** New paper *Exposure Inequality in People Recommender Systems: The Long-Term Effects* accepted at ICWSM 2022!
 * **Aug 2021** Excited to join Huawei Ireland Research Center for an internship in Federated Recommender Systems!
@@ -36,4 +40,3 @@ Last News
 * **Apr 2020** I'll be joining the PC of [ECML-PKDD 2020](https://ecmlpkdd2020.net/) (ADS track)
 * **Jan 2020** [Paper](https://frafabbri.github.io/files/icwsm20FabbriF.pdf) accepted at *ICWSM 2020* (16% acceptance rate)
 * **Nov 2019** Notified to have been selected to take part with travel support at the [HUMAINT Winter School 2020](https://ec.europa.eu/jrc/communities/en/community/humaint/event/2nd-humaint-winter-school-fairness-accountability-and-transparency)!
-* **Sep 2019** Successfully defended my research proposal, with title *Fair Recommender Systems for Graphs and Sequence Data*.
