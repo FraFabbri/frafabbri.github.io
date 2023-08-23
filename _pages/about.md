@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at Spotify. 
+Hi! Welcome to my personal homepage. I am Francesco Fabbri, Research Scientist at Spotify. At Spotify I work on personalization, with a focus on Graph Representation Learning and Generative Responsible AI.
 
-Previously, I received (cum laude) my Ph.D. in Computer Science, at Pompeu Fabra University, Barcelona. My work focused on analyzing and mitigating unintended and potentially harmful effects embedded in online social platforms (e.g. social networks, music streaming platforms, rental marketplaces, etc...). 
+Before joining Spotify, I received (cum laude) my Ph.D. in Computer Science, at Pompeu Fabra University, Barcelona. My work focused on analyzing and mitigating unintended and potentially harmful effects embedded in online social platforms (e.g. social networks, music streaming platforms, rental marketplaces, etc...). 
 
 I was supported by the Vicente López scholarship, awarded by [Eurecat, Research Center in Catalunya](https://eurecat.org/) and I was luckily advised by Dr. [Francesco Bonchi](http://www.francescobonchi.com) and Prof. [Carlos Castillo](https://chato.cl).
 
@@ -24,6 +24,8 @@ During my study I have been awarded with a research scholarship at DIAG (Departm
 
 Last News
 ======
+
+* **Aug 2023** 2 new papers accepted at CIKM '23. 
 * **Oct 2022** I defended my Ph.D. Thesis on *"Algorithmic Bias in Graph-Based Recommender Systems"* (cum laude).
 * **Sep 2022** I joined Spotify as Research Scientist!
 * **Jan 2022** New paper accepted *Rewiring What-to-Watch-Next Recommendations to Reduce Radicalization Pathways* at theWebConf 2022!
