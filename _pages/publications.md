@@ -80,27 +80,3 @@ sitemap: false
 
 **<span style='color:red'>The Effect of Homophily on Disparate Visibility of Minorities in People Recommender Systems</span>** <i><font color='blue'>F. Fabbri</font></i>, F. Bonchi, L. Boratto, C. Castillo
 *Proceedings of the Fourteenth International (AAAI) Conference on Web and Social Media, (ICWSM) 2020, Held Virtually, Original Venue: Atlanta, Georgia, USA, June 8-11, 2020* [[PDF]](https://ojs.aaai.org/index.php/ICWSM/article/view/7288)
-
-**<span style='color:red'>Mobile phone data analytics against the COVID-19 epidemics in Italy: flow diversity and local job markets during the national lockdown</span>** P. Bonato, P. Cintia, <i><font color='blue'>F. Fabbri</font></i>, D. Fadda, F. Giannotti, P. Lopalco, S. Mazzilli, M. Nanni, L. Pappalardo, D. Pedreschi, F. Penone, S. Rinzivillo, G. Rossetti, M. Savarese, L. Tavoschi
-*Preprint: arxiv:2004.11278* [[PDF]]()
-
-**<span style='color:red'>The relationship between human mobility and viral transmissibility during the COVID-19 epidemics in Italy</span>** P. Cintia, D. Fadda, F. Giannotti, L. Pappalardo, G. Rossetti, D. Pedreschi, S. Rinzivillo, P. Bonato, <i><font color='blue'>F. Fabbri</font></i>, F. Penone, M. Savarese, D. Checchi, F. Chiaromonte, P. Vineis, G. Guzzetta, F. Riccardo, V. Marziano, P. Poletti, F. Trentini, A. Bella, X. Andrianou, M. Manso, M. Fabiani, S. Bellino, S. Boros, A. Urdiales, M. Vescio, S. Brusaferro, G. Rezza, P. Pezzotti, M. Ajelli, S. Merler
-*Preprint: arxiv:2006.03141* [[PDF]]()
-
-**<span style='color:red'>Streaming Submodular Maximization with Fairness Constraints</span>** Y. Wang, <i><font color='blue'>F. Fabbri</font></i>, M. Mathioudakis
-*Preprint: arxiv:2010.04412* [[PDF]]()
-
-2018
-===
-***
-
-**<span style='color:red'>Assessing the interdependencies between scientific disciplinary profiles</span>** C. Daraio, <i><font color='blue'>F. Fabbri</font></i>, G. Gavazzi, M. Izzo, L. Leuzzi, G. Quaglia, G. Ruocco
-*Scientometrics* [[PDF]]()
-
-2017
-===
-***
-
-**<span style='color:red'>Assessing the Interdependencies between Scientific Disciplinary Profiles at the Country Level: a Pseudo-Likelihood Approach</span>** C. Daraio, <i><font color='blue'>F. Fabbri</font></i>, G. Gavazzi, M. Izzo, L. Leuzzi, G. Quaglia, G. Ruocco
-*Proceedings of the 16th International Conference on Scientometrics and Informetrics, (ISSI) 2017, Wuhan, China, October 16-20, 2017* [[PDF]]()
-
