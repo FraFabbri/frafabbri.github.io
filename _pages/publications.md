@@ -71,8 +71,6 @@ sitemap: false
 **<span style='color:red'>Fair and Representative Subset Selection from Data Streams</span>** Y. Wang, <i><font color='blue'>F. Fabbri</font></i>, M. Mathioudakis
 *(WWW) '21: The Web Conference 2021, Virtual Event / Ljubljana, Slovenia, April 19-23, 2021* [[PDF]](https://arxiv.org/pdf/2010.04412.pdf)
 
-**<span style='color:red'>Exposure Inequality in People Recommender Systems: The Long-Term Effects</span>** <i><font color='blue'>F. Fabbri</font></i>, M. Croci, F. Bonchi, C. Castillo
-*Preprint: arxiv:2112.08237* [[PDF]]()
 
 2020
 ===
