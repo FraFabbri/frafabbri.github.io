@@ -14,7 +14,7 @@ sitemap: false
 **<span style='color:red'>Robustness in Fairness against Edge-level Perturbations in GNN-based Recommendation</span>** L. Boratto, <i><font color='blue'>F. Fabbri</font></i>, G. Fenu, M. Marras, G. Medda
 *Preprint: arxiv:2401.13823* [[PDF]](https://arxiv.org/pdf/2401.13823)
 
-#2023
+2023
 ===
 ***
 
