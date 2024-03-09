@@ -1,10 +1,3 @@
----
-layout: archive
-title: ""
-permalink: /publications/
-author_profile: true
-sitemap: false
----
 
 2023
 ===
