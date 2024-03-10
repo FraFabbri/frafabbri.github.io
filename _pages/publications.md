@@ -4,10 +4,6 @@ title: ""
 permalink: /publications/
 author_profile: true
 sitemap: false
-redirect_from: 
-  - /publications/
-  - /publications.html
-
 ---
 
 2024
