@@ -25,10 +25,12 @@ During my study I have been awarded with a research scholarship at DIAG (Departm
 Last News
 ======
 
+* **Jan 2024** New paper *Personalized Audiobook Recommendations at Spotify Through Graph Neural Networks* accepted at theWebConf '24
+* **Dec 2023** New paper accepted at ECIR '24.
 * **Aug 2023** 2 new papers accepted at CIKM '23. 
 * **Oct 2022** I defended my Ph.D. Thesis on *"Algorithmic Bias in Graph-Based Recommender Systems"* (cum laude).
 * **Sep 2022** I joined Spotify as Research Scientist!
-* **Jan 2022** New paper accepted *Rewiring What-to-Watch-Next Recommendations to Reduce Radicalization Pathways* at theWebConf 2022!
+* **Jan 2022** New paper *Rewiring What-to-Watch-Next Recommendations to Reduce Radicalization Pathways* accepted at theWebConf 2022!
 * **Nov 2021** New paper *Exposure Inequality in People Recommender Systems: The Long-Term Effects* accepted at ICWSM 2022!
 * **Aug 2021** Excited to join Huawei Ireland Research Center for an internship in Federated Recommender Systems!
 * **Apr 2021** *Comparing equity and effectiveness of different algorithms in an application for the room rental market* accepted at *AIES 2021* (27.7% acceptance rate)
