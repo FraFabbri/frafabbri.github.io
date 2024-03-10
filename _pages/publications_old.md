@@ -5,7 +5,7 @@
 
 **<span style="color:blue">*Counterfactual Graph Augmentation for Consumer Unfairness Mitigation in Recommender Systems*</span>** Boratto, L., **Fabbri, F.**, Fenu, G., Marras M. & Medda, G. In Proceedings of the International Conference on Information and Knowledge Management (**CIKM 2023**)
 
-**<span style="color:blue">*The Interconnected Nature of Online Harm and Moderation: Investigating the Cross-Platform Spread of Harmful Content between YouTube and Twitter.</span>** La Gatta, V., Luceri, L., **Fabbri, F.**, & Ferrara, E. In Proceedings of the ACM Conference on Hypertext and Social Media 2023 (**HT 2023**). 
+**<span style="color:blue">The Interconnected Nature of Online Harm and Moderation: Investigating the Cross-Platform Spread of Harmful Content between YouTube and Twitter.</span>** La Gatta, V., Luceri, L., **Fabbri, F.**, & Ferrara, E. In Proceedings of the ACM Conference on Hypertext and Social Media 2023 (**HT 2023**). 
 
 **<span style="color:blue">*GNNUERS: Fairness Explanation in GNNs for Recommendation via Counterfactual Reasoning.*</span>** Medda, G., **Fabbri, F.**, Marras, M., Boratto, L., & Fenu, G. (2023). arXiv preprint arXiv:2304.06182. <a href="https://arxiv.org/pdf/2304.06182.pdf"> <i class="fas fa-file-pdf"></i></a> (under review)
 

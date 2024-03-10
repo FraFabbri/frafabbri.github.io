@@ -46,7 +46,7 @@ sitemap: false
 ***
 
 **<span style='color:red'>Algorithmic bias in graph-based recommender systems</span>** **F. Fabbri**
-*Unknown Venue* <a href="https://repositori.upf.edu/handle/10230/54794">[link]</a>
+*PhD Thesis* <a href="https://repositori.upf.edu/handle/10230/54794">[link]</a>
 
 **<span style='color:red'>Streaming Algorithms for Diversity Maximization with Fairness Constraints</span>** Y. Wang, **F. Fabbri**, M. Mathioudakis
 *38th (IEEE) International Conference on Data Engineering, (ICDE) 2022, Kuala Lumpur, Malaysia, May 9-12, 2022* <a href="https://arxiv.org/pdf/2208.00194.pdf">[link]</a>
