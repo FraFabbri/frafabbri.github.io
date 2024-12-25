@@ -11,7 +11,7 @@ Hi! Welcome to my personal homepage.
 
 I am Francesco Fabbri, Research Scientist at Spotify, where I work on Representation Learning and Generative AI for personalization. I earned my Ph.D. in Computer Science (cum laude) from Pompeu Fabra University, Barcelona, focusing on analyzing and mitigating unintended effects in online social platforms. During my Ph.D., I was a visiting researcher at the University of Helsinki, working on responsible recommender systems. I also interned at Huawei, where I worked on Federated Learning for personalization.
 
-My research has been published in top-tier conferences including CIKM, theWebConf, ICWSM, and ECIR. I also won the Best Paper Award at theWebConf and the Ted Nelson Award at Hypertext. Before pursuing my Ph.D., I obtained a Master’s Degree (Honours) in Data Science and a Bachelor of Science in Statistics both from Sapienza, University of Rome.
+My research has been published in top-tier conferences including theWebConf, AAAI and CIKM. I also won the Best Paper Award at theWebConf and the Ted Nelson Award at Hypertext. Before pursuing my Ph.D., I obtained a Master’s Degree (Honours) in Data Science and a Bachelor of Science in Statistics both from Sapienza, University of Rome.
 
 ## Last News
 
