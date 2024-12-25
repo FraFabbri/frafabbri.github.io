@@ -15,7 +15,7 @@ My research has been published in top-tier conferences including CIKM, theWebCon
 
 ## Last News
 
-* **Dec 2024** *IOHunter: Graph Foundation Model to Uncover Online Information Operations* accepted at AAAi '25 as a full paper (Special Track on AI for Social Impact).
+* **Dec 2024** *IOHunter: Graph Foundation Model to Uncover Online Information Operations* accepted at AAAI '25 as a full paper (Special Track on AI for Social Impact).
 * **Jan 2024** *Personalized Audiobook Recommendations at Spotify Through Graph Neural Networks* accepted at theWebConf '24.
 * **Dec 2023** *Robustness in Fairness against Edge-level Perturbations in GNN-based Recommendation* accepted at ECIR '24.
 * **Aug 2023** 2 new papers on graph-learning for related search and fairness and GNNs accepted at CIKM '23. 
