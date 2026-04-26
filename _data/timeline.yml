@@ -29,18 +29,6 @@
 - date: "2025-09"
   type: publication
   highlight: true
-  title: "Prompt-to-Slate: Diffusion Models for Prompt-Conditioned Slate Generation"
-  venue: "RecSys '25"
-  topic: "Generative AI & LLM-Judge"
-  authors: ["F. Tomasi", "F. Fabbri", "M. Lalmas", "Z. Dai"]
-  description: "Generating coherent recommendation slates with prompt-conditioned diffusion. Moves recommendation from ranking-and-cut to learned slate generation."
-  links:
-    arxiv: "https://arxiv.org/pdf/2408.06883"
-    spotify_research: "https://research.atspotify.com/2025/9/prompt-to-slate-diffusion-models-for-prompt-conditioned-slate-generation"
-
-- date: "2025-09"
-  type: publication
-  highlight: true
   title: "Profile-aware LLM-as-a-Judge for Podcasts: A Better Middle Ground Between Offline Metrics and A/B Tests"
   venue: "RecSys '25 · LBR"
   topic: "Generative AI & LLM-Judge"
@@ -49,6 +37,18 @@
   links:
     arxiv: "https://arxiv.org/abs/2508.08777"
     spotify_research: "https://research.atspotify.com/2025/9/profile-aware-llm-as-a-judge-for-podcasts-a-better-middle-ground-between"
+
+- date: "2025-09"
+  type: publication
+  highlight: true
+  title: "Prompt-to-Slate: Diffusion Models for Prompt-Conditioned Slate Generation"
+  venue: "RecSys '25"
+  topic: "Generative AI & LLM-Judge"
+  authors: ["F. Tomasi", "F. Fabbri", "M. Lalmas", "Z. Dai"]
+  description: "Generating coherent recommendation slates with prompt-conditioned diffusion. Moves recommendation from ranking-and-cut to learned slate generation."
+  links:
+    arxiv: "https://arxiv.org/pdf/2408.06883"
+    spotify_research: "https://research.atspotify.com/2025/9/prompt-to-slate-diffusion-models-for-prompt-conditioned-slate-generation"
 
 - date: "2024-12"
   type: publication
@@ -64,17 +64,6 @@
 - date: "2024-05"
   type: publication
   highlight: true
-  title: "Personalized Audiobook Recommendations at Spotify Through Graph Neural Networks"
-  venue: "theWebConf '24 · oral · lead author"
-  topic: "Graph Recommendation"
-  authors: ["M. De Nadai", "F. Fabbri", "P. Gigioli", "A. Wang", "A. Li", "F. Silvestri", "L. Kim", "S. Lin", "V. Radosavljevic", "S. Ghael", "D. Nyhan", "H. Bouchard", "M. Lalmas", "A. Damianou"]
-  description: "First cross-content GNN recommender for audiobook discovery. Co-listening graph design with LLM content representations and inductive item coverage."
-  links:
-    arxiv: "https://arxiv.org/pdf/2403.05185v1.pdf"
-
-- date: "2024-05"
-  type: publication
-  highlight: true
   title: "Towards Graph Foundation Models for Personalization"
   venue: "theWebConf '24"
   topic: "Graph Recommendation"
@@ -82,6 +71,17 @@
   description: "Position paper laying out what graph foundation models could look like for the personalization problem at industrial scale."
   links:
     arxiv: "https://arxiv.org/pdf/2403.07478.pdf"
+
+- date: "2024-05"
+  type: publication
+  highlight: true
+  title: "Personalized Audiobook Recommendations at Spotify Through Graph Neural Networks"
+  venue: "theWebConf '24 · oral · lead author"
+  topic: "Graph Recommendation"
+  authors: ["M. De Nadai", "F. Fabbri", "P. Gigioli", "A. Wang", "A. Li", "F. Silvestri", "L. Kim", "S. Lin", "V. Radosavljevic", "S. Ghael", "D. Nyhan", "H. Bouchard", "M. Lalmas", "A. Damianou"]
+  description: "First cross-content GNN recommender for audiobook discovery. Co-listening graph design with LLM content representations and inductive item coverage."
+  links:
+    arxiv: "https://arxiv.org/pdf/2403.05185v1.pdf"
 
 - date: "2022-04"
   type: publication

@@ -22,7 +22,7 @@ permalink: /publications/
       {%- endif -%}
       <li class="pub-row">
         <div class="pub-title">
-          {%- if entry.award == "Best Paper" -%}<span class="pub-award">★ Best Paper</span> · {%- endif -%}
+          {%- if entry.award == "Best Paper" %}<span class="pub-award">★ Best Paper</span> · {% endif -%}
           {%- if entry.links.arxiv -%}<a href="{{ entry.links.arxiv }}">{{ entry.title }}</a>
           {%- elsif entry.links.spotify_research -%}<a href="{{ entry.links.spotify_research }}">{{ entry.title }}</a>
           {%- elsif entry.links.paper -%}<a href="{{ entry.links.paper }}">{{ entry.title }}</a>
@@ -31,7 +31,7 @@ permalink: /publications/
         <div class="pub-meta">
           {%- for author in entry.authors -%}
             {%- if author == "F. Fabbri" -%}<strong>{{ author }}</strong>{%- else -%}{{ author }}{%- endif -%}
-            {%- unless forloop.last -%}, {%- endunless -%}
+            {%- unless forloop.last %}, {% endunless -%}
           {%- endfor -%}
           · <em>{{ entry.venue }}</em>
         </div>
