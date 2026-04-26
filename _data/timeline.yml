@@ -1,0 +1,275 @@
+# Locked source-of-truth for the homepage Timeline + /publications + /talks.
+# Schema: see docs/superpowers/specs/2026-04-26-frafabbri-rebrand-design.md § Content model.
+# Public-only: never add internal Spotify product names, codenames, or unpublished work.
+
+# ============================================================
+# CAREER MILESTONES
+# ============================================================
+
+- date: "2026-04"
+  type: career
+  highlight: true
+  text: "Promoted to **Senior Research Scientist** at Spotify."
+
+- date: "2022-09"
+  type: career
+  highlight: true
+  text: "**PhD defended** (cum laude) at UPF Barcelona · joined **Spotify** as Research Scientist."
+
+- date: "2018"
+  type: career
+  highlight: true
+  text: "Began **PhD at UPF Barcelona** with Francesco Bonchi — algorithmic bias in graph-based recommenders."
+  start: true
+
+# ============================================================
+# PUBLICATIONS — homepage flagships (highlight: true)
+# ============================================================
+
+- date: "2025-09"
+  type: publication
+  highlight: true
+  title: "Prompt-to-Slate: Diffusion Models for Prompt-Conditioned Slate Generation"
+  venue: "RecSys '25"
+  topic: "Generative AI & LLM-Judge"
+  authors: ["F. Tomasi", "F. Fabbri", "M. Lalmas", "Z. Dai"]
+  description: "Generating coherent recommendation slates with prompt-conditioned diffusion. Moves recommendation from ranking-and-cut to learned slate generation."
+  links:
+    arxiv: "https://arxiv.org/pdf/2408.06883"
+    spotify_research: "https://research.atspotify.com/2025/9/prompt-to-slate-diffusion-models-for-prompt-conditioned-slate-generation"
+
+- date: "2025-09"
+  type: publication
+  highlight: true
+  title: "Profile-aware LLM-as-a-Judge for Podcasts: A Better Middle Ground Between Offline Metrics and A/B Tests"
+  venue: "RecSys '25 · LBR"
+  topic: "Generative AI & LLM-Judge"
+  authors: ["F. Fabbri", "G. Penha", "E. D'Amico", "A. Wang", "M. De Nadai", "C. Hauff"]
+  description: "A scalable, calibrated LLM judge that incorporates user profile context — a better middle ground between offline metrics and A/B tests for evaluating recommendations."
+  links:
+    arxiv: "https://arxiv.org/abs/2508.08777"
+    spotify_research: "https://research.atspotify.com/2025/9/profile-aware-llm-as-a-judge-for-podcasts-a-better-middle-ground-between"
+
+- date: "2024-12"
+  type: publication
+  highlight: true
+  title: "IOHunter: Graph Foundation Model to Uncover Online Information Operations"
+  venue: "AAAI '25 · AI for Social Impact"
+  topic: "Algorithmic Fairness"
+  authors: ["M. Minici", "L. Luceri", "F. Fabbri", "E. Ferrara"]
+  description: "Cross-platform graph foundation model that detects coordinated inauthentic behavior — transferable across networks without per-platform retraining."
+  links:
+    arxiv: "https://arxiv.org/abs/2412.14663"
+
+- date: "2024-05"
+  type: publication
+  highlight: true
+  title: "Personalized Audiobook Recommendations at Spotify Through Graph Neural Networks"
+  venue: "theWebConf '24 · oral · lead author"
+  topic: "Graph Recommendation"
+  authors: ["M. De Nadai", "F. Fabbri", "P. Gigioli", "A. Wang", "A. Li", "F. Silvestri", "L. Kim", "S. Lin", "V. Radosavljevic", "S. Ghael", "D. Nyhan", "H. Bouchard", "M. Lalmas", "A. Damianou"]
+  description: "First cross-content GNN recommender for audiobook discovery. Co-listening graph design with LLM content representations and inductive item coverage."
+  links:
+    arxiv: "https://arxiv.org/pdf/2403.05185v1.pdf"
+
+- date: "2024-05"
+  type: publication
+  highlight: true
+  title: "Towards Graph Foundation Models for Personalization"
+  venue: "theWebConf '24"
+  topic: "Graph Recommendation"
+  authors: ["A. Damianou", "F. Fabbri", "P. Gigioli", "M. De Nadai", "A. Wang", "E. Palumbo", "M. Lalmas"]
+  description: "Position paper laying out what graph foundation models could look like for the personalization problem at industrial scale."
+  links:
+    arxiv: "https://arxiv.org/pdf/2403.07478.pdf"
+
+- date: "2022-04"
+  type: publication
+  highlight: true
+  award: "Best Paper"
+  title: "Rewiring What-to-Watch-Next Recommendations to Reduce Radicalization Pathways"
+  venue: "theWebConf '22"
+  topic: "Algorithmic Fairness"
+  authors: ["F. Fabbri", "Y. Wang", "F. Bonchi", "C. Castillo", "M. Mathioudakis"]
+  description: "A minimal-edit graph rewiring method that shortens radicalization pathways in video recommenders — without retraining the underlying model."
+  links:
+    arxiv: "https://arxiv.org/pdf/2202.00640.pdf"
+
+# ============================================================
+# TALKS — homepage highlights
+# ============================================================
+
+- date: "2025-05"
+  type: talk
+  highlight: true
+  title: "Invited keynote"
+  venue: "UPF University · Barcelona"
+
+- date: "2024-08"
+  type: talk
+  highlight: true
+  title: "Mentor & panelist"
+  venue: "KDD '24 Doctoral Symposium"
+
+- date: "2024-04"
+  type: talk
+  highlight: true
+  title: "Invited keynote"
+  venue: "ECIR '24 Workshop"
+
+# ============================================================
+# PUBLICATIONS — full list (highlight: false, back-catalog)
+# ============================================================
+
+- date: "2024-09"
+  type: publication
+  highlight: false
+  title: "Algorithmic Drift: A Simulation Framework to Study the Effects of Recommender Systems on User Preferences"
+  venue: "Preprint"
+  authors: ["E. Coppolillo", "S. Mungari", "E. Ritacco", "F. Fabbri", "M. Minici", "F. Bonchi", "G. Manco"]
+  links:
+    arxiv: "https://arxiv.org/pdf/2409.16478"
+
+- date: "2024-03"
+  type: publication
+  highlight: false
+  title: "Robustness in Fairness Against Edge-Level Perturbations in GNN-Based Recommendation"
+  venue: "ECIR '24"
+  authors: ["L. Boratto", "F. Fabbri", "G. Fenu", "M. Marras", "G. Medda"]
+  links:
+    arxiv: "https://arxiv.org/pdf/2401.13823"
+
+- date: "2024-10"
+  type: publication
+  highlight: false
+  title: "Fair Augmentation for Graph Collaborative Filtering"
+  venue: "RecSys '24"
+  authors: ["L. Boratto", "F. Fabbri", "G. Fenu", "M. Marras", "G. Medda"]
+  links:
+    paper: "https://dl.acm.org/doi/pdf/10.1145/3640457.3688064"
+
+- date: "2023"
+  type: publication
+  highlight: false
+  title: "Fair Max-Min Diversity Maximization in Streaming and Sliding-Window Models"
+  venue: "Entropy"
+  authors: ["Y. Wang", "F. Fabbri", "M. Mathioudakis", "J. Li"]
+  links:
+    paper: "https://www.mdpi.com/1099-4300/25/7/1066"
+
+- date: "2023-10"
+  type: publication
+  highlight: false
+  title: "Counterfactual Graph Augmentation for Consumer Unfairness Mitigation in Recommender Systems"
+  venue: "CIKM '23"
+  authors: ["L. Boratto", "F. Fabbri", "G. Fenu", "M. Marras", "G. Medda"]
+  links:
+    arxiv: "https://arxiv.org/pdf/2308.12083.pdf"
+
+- date: "2023-10"
+  type: publication
+  highlight: false
+  title: "Graph Learning for Exploratory Query Suggestions in an Instant Search System"
+  venue: "CIKM '23"
+  authors: ["E. Palumbo", "A. Damianou", "A. Wang", "A. Liu", "G. Fazelnia", "F. Fabbri", "R. Ferreira", "F. Silvestri", "H. Bouchard", "C. Hauff", "M. Lalmas", "B. Carterette", "P. Chandar", "D. Nyhan"]
+  links:
+    paper: "https://dl.acm.org/doi/abs/10.1145/3583780.3615481"
+
+- date: "2023-09"
+  type: publication
+  highlight: false
+  title: "The Interconnected Nature of Online Harm and Moderation: Investigating the Cross-Platform Spread of Harmful Content between YouTube and Twitter"
+  venue: "HT '23"
+  authors: ["V. Gatta", "L. Luceri", "F. Fabbri", "E. Ferrara"]
+  links:
+    paper: "https://dl.acm.org/doi/pdf/10.1145/3603163.3609058"
+
+- date: "2023-08"
+  type: publication
+  highlight: false
+  title: "Rewiring What-to-Watch-Next Recommendations to Reduce Radicalization Pathways (Extended Abstract)"
+  venue: "IJCAI '23"
+  authors: ["F. Fabbri", "Y. Wang", "F. Bonchi", "C. Castillo", "M. Mathioudakis"]
+  links:
+    paper: "https://www.ijcai.org/proceedings/2023/0715.pdf"
+
+- date: "2023-04"
+  type: publication
+  highlight: false
+  title: "Max-Min Diversification with Fairness Constraints: Exact and Approximation Algorithms"
+  venue: "SDM '23"
+  authors: ["Y. Wang", "M. Mathioudakis", "J. Li", "F. Fabbri"]
+  links:
+    arxiv: "https://arxiv.org/pdf/2208.00194.pdf"
+
+- date: "2023-04"
+  type: publication
+  highlight: false
+  title: "GNNUERS: Fairness Explanation in GNNs for Recommendation via Counterfactual Reasoning"
+  venue: "Preprint"
+  authors: ["G. Medda", "F. Fabbri", "M. Marras", "L. Boratto", "G. Fenu"]
+  links:
+    arxiv: "https://arxiv.org/pdf/2304.06182.pdf"
+
+- date: "2022-10"
+  type: publication
+  highlight: false
+  title: "Algorithmic bias in graph-based recommender systems"
+  venue: "PhD Thesis · UPF"
+  authors: ["F. Fabbri"]
+  links:
+    paper: "https://repositori.upf.edu/handle/10230/54794"
+
+- date: "2022-05"
+  type: publication
+  highlight: false
+  title: "Streaming Algorithms for Diversity Maximization with Fairness Constraints"
+  venue: "ICDE '22"
+  authors: ["Y. Wang", "F. Fabbri", "M. Mathioudakis"]
+  links:
+    arxiv: "https://arxiv.org/pdf/2208.00194.pdf"
+
+- date: "2022-06"
+  type: publication
+  highlight: false
+  title: "Exposure Inequality in People Recommender Systems: The Long-Term Effects"
+  venue: "ICWSM '22"
+  authors: ["F. Fabbri", "M. Croci", "F. Bonchi", "C. Castillo"]
+  links:
+    paper: "https://ojs.aaai.org/index.php/ICWSM/article/view/19284"
+
+- date: "2021-05"
+  type: publication
+  highlight: false
+  title: "Comparing Equity and Effectiveness of Different Algorithms in an Application for the Room Rental Market"
+  venue: "AIES '21"
+  authors: ["D. Solans", "F. Fabbri", "C. Calsamiglia", "C. Castillo", "F. Bonchi"]
+  links:
+    paper: "https://dl.acm.org/doi/abs/10.1145/3461702.3462600"
+
+- date: "2021-03"
+  type: publication
+  highlight: false
+  title: "From the Beatles to Billie Eilish: Connecting Provider Representativeness and Exposure in Session-Based Recommender Systems"
+  venue: "ECIR '21"
+  authors: ["A. Ariza", "F. Fabbri", "L. Boratto", "M. Salamó"]
+  links:
+    paper: "https://link.springer.com/chapter/10.1007/978-3-030-72240-1_16"
+
+- date: "2021-04"
+  type: publication
+  highlight: false
+  title: "Fair and Representative Subset Selection from Data Streams"
+  venue: "WWW '21"
+  authors: ["Y. Wang", "F. Fabbri", "M. Mathioudakis"]
+  links:
+    arxiv: "https://arxiv.org/pdf/2010.04412.pdf"
+
+- date: "2020-06"
+  type: publication
+  highlight: false
+  title: "The Effect of Homophily on Disparate Visibility of Minorities in People Recommender Systems"
+  venue: "ICWSM '20"
+  authors: ["F. Fabbri", "F. Bonchi", "L. Boratto", "C. Castillo"]
+  links:
+    paper: "https://ojs.aaai.org/index.php/ICWSM/article/view/7288"
