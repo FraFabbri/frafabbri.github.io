@@ -141,6 +141,15 @@
 # PUBLICATIONS — full list (highlight: false, back-catalog)
 # ============================================================
 
+- date: "2026-03"
+  type: publication
+  highlight: false
+  title: "Deploying Semantic ID-based Generative Retrieval for Large-Scale Podcast Discovery at Spotify"
+  venue: "Preprint"
+  authors: ["E. D'Amico", "M. De Nadai", "P. Chandar", "D. Vohra", "S. Lin", "M. Lefarov", "P. Gigioli", "G. Penha", "I. Kopysitsky", "I. J. Senese", "D. Mei", "F. Fabbri", "O. Semerci", "Y. Zhao", "V. Tang", "B. St. Thomas", "A. Ranieri", "M. N. K. Smith", "A. Bernkopf", "B. Leung", "G. Fazelnia", "M. VanMiddlesworth", "T. C. Heath", "P. P. Skidén", "A. Y. Wang", "D. J. Cole", "A. Damianou", "M. Hristakeva", "R. Wilbur", "T. Chillara", "V. Radosavljevic", "P. Chitkara", "S. Adapa", "J. Elenter", "B. Huber", "J. Wood", "S. Vedantam", "J. Stypka", "S. Ghael", "M. D. Gould", "D. Murgatroyd", "Y. Raimond", "M. Lalmas", "P. N. Bennett"]
+  links:
+    arxiv: "https://arxiv.org/abs/2603.17540"
+
 - date: "2025-09"
   type: publication
   highlight: false
