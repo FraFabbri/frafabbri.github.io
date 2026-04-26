@@ -1,0 +1,27 @@
+.wrapper {
+  max-width: 800px;
+  margin: 32px auto;
+  background: var(--color-bg);
+  border: 1px solid var(--color-border-warm);
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
+}
+
+.section-pad {
+  padding: var(--space-section-y) var(--space-section-x);
+  border-bottom: 1px solid var(--color-border-divider);
+}
+.section-pad:last-child { border-bottom: none; }
+
+.stitle {
+  font-family: $font-serif;
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+.ssub {
+  font-size: 12px;
+  color: var(--color-text-muted);
+  margin-bottom: 18px;
+}
