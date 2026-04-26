@@ -1,0 +1,33 @@
+// Color tokens — locked by design spec.
+:root {
+  --color-bg:           #fafaf7;
+  --color-bg-warm-end:  #f6f1e2;
+  --color-card-bg:      #ffffff;
+  --color-flagship-bg:  #fdfcf6;
+
+  --color-text-primary:   #111111;
+  --color-text-body:      #2a2a2a;
+  --color-text-secondary: #666666;
+  --color-text-muted:     #888888;
+  --color-text-mutedmost: #999999;
+
+  --color-accent:        #1db954;
+  --color-accent-dark:   #0f6e32;
+  --color-accent-pale:   #c4f4a050;
+
+  --color-gold:          #ffd700;
+  --color-gold-dark:     #d4a017;
+  --color-gold-text:     #8a6d00;
+  --color-gold-bg:       #ffd70030;
+
+  --color-talk-bg:       #5e9eff20;
+  --color-talk-text:     #2c5cb6;
+
+  --color-border-warm:    #e8e4d8;
+  --color-border-divider: #efe9da;
+  --color-border-card:    #ece6d4;
+
+  --space-section-y: 28px;
+  --space-section-x: 36px;
+  --radius-card: 8px;
+}
