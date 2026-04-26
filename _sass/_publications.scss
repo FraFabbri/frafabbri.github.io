@@ -1,0 +1,36 @@
+.pub-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.pub-year-marker {
+  font-family: $font-serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--color-accent-dark);
+  margin: 22px 0 10px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--color-border-divider);
+}
+.pub-year-marker:first-child { margin-top: 0; }
+.pub-row {
+  margin-bottom: 12px;
+  padding-left: 0;
+}
+.pub-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--color-text-primary);
+  line-height: 1.4;
+}
+.pub-title a { color: var(--color-text-primary); text-decoration: none; border-bottom: 1px solid var(--color-accent); }
+.pub-title a:hover { color: var(--color-accent-dark); }
+.pub-award { color: var(--color-gold-dark); font-weight: 700; }
+.pub-meta {
+  font-size: 12px;
+  color: var(--color-text-secondary);
+  line-height: 1.5;
+  margin-top: 2px;
+}
+.pub-meta strong { color: var(--color-text-primary); }
+.pub-meta em { color: var(--color-text-muted); font-style: italic; }
