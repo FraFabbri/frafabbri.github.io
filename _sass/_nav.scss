@@ -26,3 +26,7 @@
   color: var(--color-text-primary);
   font-weight: 600;
 }
+@media (max-width: 480px) {
+  .nav { flex-direction: column; gap: 8px; align-items: flex-start; padding: 14px 20px; }
+  .nav .links { flex-wrap: wrap; gap: 14px; }
+}

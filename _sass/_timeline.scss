@@ -108,3 +108,12 @@
   text-decoration: none;
   margin-right: 8px;
 }
+@media (max-width: 600px) {
+  .timeline { padding-left: 80px; }
+  .timeline:before { left: 60px; }
+  .tl-when { left: -80px; width: 50px; font-size: 9.5px; }
+  .tl-dot { left: -25px; }
+  .tl-flagship { padding: 8px 10px 10px 12px; }
+  .tl-flagship .tl-title { font-size: 13px; }
+  .section-pad { padding: 22px 20px; }
+}
