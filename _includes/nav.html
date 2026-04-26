@@ -1,0 +1,10 @@
+<nav class="nav">
+  <a class="brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
+  <ul class="links">
+    {% for item in site.nav %}
+      {% assign is_active = false %}
+      {% if page.url == item.link %}{% assign is_active = true %}{% endif %}
+      <li><a href="{{ item.link }}"{% if is_active %} class="active"{% endif %}>{{ item.name }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
