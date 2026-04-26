@@ -1,0 +1,110 @@
+.timeline {
+  position: relative;
+  padding-left: 130px;
+}
+.timeline:before {
+  content: "";
+  position: absolute;
+  left: 100px;
+  top: 8px;
+  bottom: 8px;
+  width: 1px;
+  background: var(--color-border-warm);
+}
+
+.tl-row {
+  position: relative;
+  padding: 8px 0 14px;
+}
+.tl-when {
+  position: absolute;
+  left: -130px;
+  top: 8px;
+  width: 70px;
+  text-align: right;
+  font-size: 10.5px;
+  font-weight: 600;
+  color: var(--color-text-muted);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.tl-dot {
+  position: absolute;
+  left: -38px;
+  top: 11px;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: #fff;
+  border: 2px solid #ccc;
+  box-sizing: border-box;
+}
+.tl-dot-major  { border-color: var(--color-accent); background: var(--color-accent); }
+.tl-dot-career { border-color: var(--color-gold-dark); background: var(--color-gold); }
+
+.tl-content {
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--color-text-body);
+  padding-left: 6px;
+}
+.tl-content strong { color: var(--color-text-primary); }
+
+.tl-flagship {
+  background: var(--color-flagship-bg);
+  border-left: 2px solid var(--color-accent);
+  padding: 10px 12px 12px 16px;
+  margin-left: -8px;
+  border-radius: 4px;
+}
+.tl-flagship .tl-title {
+  font-weight: 600;
+  color: var(--color-text-primary);
+  font-size: 13.5px;
+  line-height: 1.35;
+  margin-top: 4px;
+}
+.tl-flagship .tl-desc {
+  font-size: 11.5px;
+  color: var(--color-text-secondary);
+  line-height: 1.5;
+  margin: 4px 0 0;
+}
+
+.tl-tag {
+  display: inline-block;
+  font-size: 9px;
+  padding: 1px 6px;
+  border-radius: 8px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-right: 5px;
+  vertical-align: 1px;
+}
+.tl-tag-pub    { background: #1db95420; color: var(--color-accent-dark); }
+.tl-tag-career { background: var(--color-gold-bg); color: var(--color-gold-text); }
+.tl-tag-talk   { background: var(--color-talk-bg); color: var(--color-talk-text); }
+
+.tl-star  { color: var(--color-gold-dark); font-weight: 700; }
+.tl-venue { color: var(--color-text-muted); font-size: 10.5px; }
+
+.tl-topic {
+  display: inline-block;
+  font-size: 9px;
+  padding: 1px 7px;
+  border-radius: 8px;
+  background: #f6f1e2;
+  color: var(--color-gold-text);
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  margin-top: 6px;
+}
+
+.tl-links { margin-top: 6px; font-size: 10.5px; }
+.tl-links a {
+  color: var(--color-accent);
+  font-weight: 600;
+  text-decoration: none;
+  margin-right: 8px;
+}

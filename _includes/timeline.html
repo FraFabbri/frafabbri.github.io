@@ -1,0 +1,11 @@
+<section class="section-pad">
+  <div class="stitle">Timeline</div>
+  <div class="ssub">Career milestones, flagship papers, and invited talks — most recent at the top.</div>
+
+  <div class="timeline">
+    {%- assign highlights = site.data.timeline | where: "highlight", true | sort: "date" | reverse -%}
+    {%- for entry in highlights -%}
+      {% include timeline-entry.html entry=entry %}
+    {%- endfor -%}
+  </div>
+</section>
