@@ -1,0 +1,76 @@
+{%- comment -%}
+  Renders one timeline row.
+  Required: include with `entry: ...` set to a timeline.yml entry hash.
+  Each row produces: month/year label, dot, content body.
+{%- endcomment -%}
+
+{%- assign date_parts = entry.date | split: "-" -%}
+{%- assign year = date_parts[0] -%}
+{%- assign month_num = date_parts[1] -%}
+{%- comment -%}If entry.date is just "2018", month_num is nil → render year only.{%- endcomment -%}
+
+<div class="tl-row tl-{{ entry.type }}">
+  <div class="tl-when">
+    {%- if month_num -%}
+      {%- case month_num -%}
+        {%- when "01" -%}Jan {{ year }}
+        {%- when "02" -%}Feb {{ year }}
+        {%- when "03" -%}Mar {{ year }}
+        {%- when "04" -%}Apr {{ year }}
+        {%- when "05" -%}May {{ year }}
+        {%- when "06" -%}Jun {{ year }}
+        {%- when "07" -%}Jul {{ year }}
+        {%- when "08" -%}Aug {{ year }}
+        {%- when "09" -%}Sep {{ year }}
+        {%- when "10" -%}Oct {{ year }}
+        {%- when "11" -%}Nov {{ year }}
+        {%- when "12" -%}Dec {{ year }}
+      {%- endcase -%}
+    {%- else -%}
+      {{ year }}
+    {%- endif -%}
+  </div>
+
+  <div class="tl-dot
+    {%- if entry.type == 'career' %} tl-dot-career{% endif -%}
+    {%- if entry.type == 'publication' %} tl-dot-major{% endif -%}
+  "></div>
+
+  {%- if entry.type == 'publication' -%}
+    <div class="tl-content tl-flagship">
+      {%- if entry.award == "Best Paper" -%}
+        <span class="tl-star">★ Best Paper</span>
+        <span class="tl-venue"> · {{ entry.venue }}</span>
+      {%- else -%}
+        <span class="tl-tag tl-tag-pub">Publication</span>
+        <span class="tl-venue">{{ entry.venue }}</span>
+      {%- endif -%}
+      <div class="tl-title">{{ entry.title }}</div>
+      {%- if entry.description -%}<p class="tl-desc">{{ entry.description }}</p>{%- endif -%}
+      {%- if entry.topic -%}<div><span class="tl-topic">{{ entry.topic }}</span></div>{%- endif -%}
+      {%- if entry.links -%}
+        <div class="tl-links">
+          {%- if entry.links.arxiv -%}<a href="{{ entry.links.arxiv }}">arXiv ↗</a>{%- endif -%}
+          {%- if entry.links.spotify_research -%}<a href="{{ entry.links.spotify_research }}">Spotify Research ↗</a>{%- endif -%}
+          {%- if entry.links.paper -%}<a href="{{ entry.links.paper }}">Paper ↗</a>{%- endif -%}
+          {%- if entry.links.slides -%}<a href="{{ entry.links.slides }}">Slides</a>{%- endif -%}
+          {%- if entry.links.talk -%}<a href="{{ entry.links.talk }}">Talk</a>{%- endif -%}
+        </div>
+      {%- endif -%}
+    </div>
+  {%- elsif entry.type == 'career' -%}
+    <div class="tl-content">
+      {%- if entry.start -%}
+        <span class="tl-tag tl-tag-career">Start</span>
+      {%- else -%}
+        <span class="tl-tag tl-tag-career">Career</span>
+      {%- endif -%}
+      {{ entry.text | markdownify | remove: '<p>' | remove: '</p>' }}
+    </div>
+  {%- elsif entry.type == 'talk' -%}
+    <div class="tl-content">
+      <span class="tl-tag tl-tag-talk">Talk</span>
+      {{ entry.title }} at <strong>{{ entry.venue }}</strong>.
+    </div>
+  {%- endif -%}
+</div>
