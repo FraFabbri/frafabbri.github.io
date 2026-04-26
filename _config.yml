@@ -1,18 +1,46 @@
 title: Francesco Fabbri
-url: "https://frafabbri.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl: "" # the subpath of your site, e.g. "/blog"
-remote_theme: ankitsultana/researcher@gem
+description: Senior Research Scientist at Spotify. Representation learning for personalization — generative models, LLM agents, LLM-as-a-Judge.
+url: "https://frafabbri.github.io"
+baseurl: ""
+
+author: Francesco Fabbri
+email: francescof@spotify.com
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
-
-tracking_id: #
-
-footer: yes
-footer_url: "https://github.com/frafabbri"
-footer_text: ""
+permalink: pretty
 
 sass:
-    style: expanded
-    sass_dir: _sass
+  style: compressed
+  sass_dir: _sass
 
+# Top nav links (rendered by _includes/nav.html)
+nav:
+  - name: Home
+    link: /
+  - name: Publications
+    link: /publications/
+  - name: Talks
+    link: /talks/
+  - name: CV
+    link: /assets/cv.pdf
+
+# Social handles (rendered by _includes/hero.html)
+social:
+  scholar: https://scholar.google.com/citations?user=be4yWSAAAAAJ
+  twitter: https://twitter.com/fra_fabbri
+  github: https://github.com/frafabbri
+  linkedin: https://www.linkedin.com/in/francesco-fabbri/
+  email: francescof@spotify.com
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - docs
+  - .superpowers
+  - README.md
+  - LICENSE
