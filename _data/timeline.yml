@@ -65,7 +65,7 @@
   highlight: true
   title: "IOHunter: Graph Foundation Model to Uncover Online Information Operations"
   venue: "AAAI '25 · AI for Social Impact"
-  topic: "Algorithmic Fairness"
+  topic: "Responsible AI"
   authors: ["M. Minici", "L. Luceri", "F. Fabbri", "E. Ferrara"]
   description: "Cross-platform graph foundation model that detects coordinated inauthentic behavior — transferable across networks without per-platform retraining."
   links:
@@ -100,7 +100,7 @@
   award: "Best Paper"
   title: "Rewiring What-to-Watch-Next Recommendations to Reduce Radicalization Pathways"
   venue: "theWebConf '22"
-  topic: "Algorithmic Fairness"
+  topic: "Responsible AI"
   authors: ["F. Fabbri", "Y. Wang", "F. Bonchi", "C. Castillo", "M. Mathioudakis"]
   description: "A minimal-edit graph rewiring method that shortens radicalization pathways in video recommenders — without retraining the underlying model."
   links:
