@@ -19,7 +19,7 @@ nav:
     link: /
   - name: Publications
     link: /publications/
-  - name: Talks
+  - name: Talks & Media
     link: /talks/
 
 # Social handles (rendered by _includes/hero.html)

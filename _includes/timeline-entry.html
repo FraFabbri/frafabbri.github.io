@@ -70,7 +70,15 @@
   {%- elsif entry.type == 'talk' -%}
     <div class="tl-content">
       <span class="tl-tag tl-tag-talk">Talk</span>
-      {{ entry.title }} at <strong>{{ entry.venue }}</strong>.
+      {{ entry.title }} at
+      {%- if entry.link %} <a href="{{ entry.link }}"><strong>{{ entry.venue }}</strong></a>
+      {%- else %} <strong>{{ entry.venue }}</strong>{% endif -%}.
+    </div>
+  {%- elsif entry.type == 'media' -%}
+    <div class="tl-content">
+      <span class="tl-tag tl-tag-talk">Media</span>
+      {%- if entry.link -%}<a href="{{ entry.link }}">{{ entry.title }}</a>{%- else -%}{{ entry.title }}{%- endif -%}
+      {%- if entry.outlet %} · <strong>{{ entry.outlet }}</strong>{% endif -%}.
     </div>
   {%- endif -%}
 </div>

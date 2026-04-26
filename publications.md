@@ -23,9 +23,9 @@ permalink: /publications/
       <li class="pub-row">
         <div class="pub-title">
           {%- if entry.award == "Best Paper" %}<span class="pub-award">★ Best Paper</span> · {% endif -%}
-          {%- if entry.links.arxiv -%}<a href="{{ entry.links.arxiv }}">{{ entry.title }}</a>
-          {%- elsif entry.links.spotify_research -%}<a href="{{ entry.links.spotify_research }}">{{ entry.title }}</a>
+          {%- if entry.links.spotify_research -%}<a href="{{ entry.links.spotify_research }}">{{ entry.title }}</a>
           {%- elsif entry.links.paper -%}<a href="{{ entry.links.paper }}">{{ entry.title }}</a>
+          {%- elsif entry.links.arxiv -%}<a href="{{ entry.links.arxiv }}">{{ entry.title }}</a>
           {%- else -%}{{ entry.title }}{%- endif -%}
         </div>
         <div class="pub-meta">

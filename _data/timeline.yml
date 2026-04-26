@@ -109,6 +109,13 @@
 # TALKS — homepage highlights
 # ============================================================
 
+- date: "2026-03"
+  type: talk
+  highlight: true
+  title: "Speaker"
+  venue: "Talent Arena 2026 · MWC Barcelona"
+  link: "https://talentarena.tech/"
+
 - date: "2025-05"
   type: talk
   highlight: true
@@ -120,24 +127,38 @@
   highlight: true
   title: "Mentor & panelist"
   venue: "KDD '24 Doctoral Symposium"
+  link: "https://kdd2024.kdd.org/call-for-phd-consortium/"
 
 - date: "2024-04"
   type: talk
   highlight: true
-  title: "Invited keynote"
-  venue: "ECIR '24 Workshop"
+  title: "Invited keynote · Graph Foundation Model for Personalization"
+  venue: "IRonGraphs · ECIR '24"
+  link: "https://irongraphs.github.io/ecir2024/"
+
+# ============================================================
+# MEDIA COVERAGE
+# ============================================================
+
+- date: "2024-05"
+  type: media
+  highlight: false
+  title: "Personalizing Audiobooks and Podcasts with graph-based models"
+  outlet: "Spotify Research"
+  link: "https://research.atspotify.com/2024/05/personalizing-audiobooks-and-podcasts-with-graph-based-models"
 
 # ============================================================
 # PUBLICATIONS — full list (highlight: false, back-catalog)
 # ============================================================
 
-- date: "2024-09"
+- date: "2025-07"
   type: publication
   highlight: false
   title: "Algorithmic Drift: A Simulation Framework to Study the Effects of Recommender Systems on User Preferences"
-  venue: "Preprint"
+  venue: "Information Processing & Management"
   authors: ["E. Coppolillo", "S. Mungari", "E. Ritacco", "F. Fabbri", "M. Minici", "F. Bonchi", "G. Manco"]
   links:
+    paper: "https://doi.org/10.1016/j.ipm.2025.104125"
     arxiv: "https://arxiv.org/pdf/2409.16478"
 
 - date: "2024-03"
