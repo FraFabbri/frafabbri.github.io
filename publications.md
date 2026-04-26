@@ -32,7 +32,7 @@ permalink: /publications/
           {%- for author in entry.authors -%}
             {%- if author == "F. Fabbri" -%}<strong>{{ author }}</strong>{%- else -%}{{ author }}{%- endif -%}
             {%- unless forloop.last %}, {% endunless -%}
-          {%- endfor -%}
+          {%- endfor %}
           · <em>{{ entry.venue }}</em>
         </div>
       </li>
