@@ -47,11 +47,11 @@ permalink: /talks/
   </ul>
 </section>
 
+{%- assign all_media = site.data.timeline | where: "type", "media" | sort: "date" | reverse -%}
+{%- if all_media.size > 0 -%}
 <section class="section-pad">
   <div class="stitle">Media coverage</div>
   <div class="ssub">Research blog posts, articles, and press featuring my work.</div>
-
-  {%- assign all_media = site.data.timeline | where: "type", "media" | sort: "date" | reverse -%}
 
   <ul class="pub-list">
     {%- for entry in all_media -%}
@@ -83,3 +83,4 @@ permalink: /talks/
     {%- endfor -%}
   </ul>
 </section>
+{%- endif -%}

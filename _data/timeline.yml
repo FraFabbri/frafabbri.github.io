@@ -92,6 +92,7 @@
   description: "First cross-content GNN recommender for audiobook discovery. Co-listening graph design with LLM content representations and inductive item coverage."
   links:
     arxiv: "https://arxiv.org/pdf/2403.05185v1.pdf"
+    spotify_research: "https://research.atspotify.com/2024/05/personalizing-audiobooks-and-podcasts-with-graph-based-models"
 
 - date: "2022-04"
   type: publication
@@ -135,17 +136,6 @@
   title: "Invited keynote · Graph Foundation Model for Personalization"
   venue: "IRonGraphs · ECIR '24"
   link: "https://irongraphs.github.io/ecir2024/"
-
-# ============================================================
-# MEDIA COVERAGE
-# ============================================================
-
-- date: "2024-05"
-  type: media
-  highlight: false
-  title: "Personalizing Audiobooks and Podcasts with graph-based models"
-  outlet: "Spotify Research"
-  link: "https://research.atspotify.com/2024/05/personalizing-audiobooks-and-podcasts-with-graph-based-models"
 
 # ============================================================
 # PUBLICATIONS — full list (highlight: false, back-catalog)
