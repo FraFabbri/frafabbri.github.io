@@ -141,6 +141,34 @@
 # PUBLICATIONS — full list (highlight: false, back-catalog)
 # ============================================================
 
+- date: "2025-09"
+  type: publication
+  highlight: false
+  title: "Semantic IDs for Joint Generative Search and Recommendation"
+  venue: "RecSys '25 · LBR"
+  authors: ["G. Penha", "E. D'Amico", "M. De Nadai", "E. Palumbo", "A. Tamborrino", "A. Vardasbi", "M. Lefarov", "S. Lin", "T. C. Heath", "F. Fabbri", "H. Bouchard"]
+  links:
+    arxiv: "https://arxiv.org/abs/2508.10478"
+    spotify_research: "https://research.atspotify.com/2025/9/semantic-ids-for-generative-search-and-recommendation"
+
+- date: "2025-11"
+  type: publication
+  highlight: false
+  title: "Do LLM-judges Align with Human Relevance in Cranfield-style Recommender Evaluation?"
+  venue: "Preprint"
+  authors: ["G. Penha", "A. V. Petrov", "C. Hauff", "E. Palumbo", "A. Vardasbi", "E. D'Amico", "F. Fabbri", "A. Wang", "P. Chandar", "H. Lindström", "H. Bouchard", "M. Lalmas"]
+  links:
+    arxiv: "https://arxiv.org/abs/2511.23312"
+
+- date: "2024-06"
+  type: publication
+  highlight: false
+  title: "Bias-aware ranking from pairwise comparisons"
+  venue: "Data Mining and Knowledge Discovery"
+  authors: ["A. Ferrara", "F. Bonchi", "F. Fabbri", "F. Karimi", "C. Wagner"]
+  links:
+    paper: "https://doi.org/10.1007/s10618-024-01024-z"
+
 - date: "2025-07"
   type: publication
   highlight: false
@@ -223,7 +251,7 @@
   links:
     arxiv: "https://arxiv.org/pdf/2208.00194.pdf"
 
-- date: "2024"
+- date: "2025"
   type: publication
   highlight: false
   title: "GNNUERS: Fairness Explanation in GNNs for Recommendation via Counterfactual Reasoning"
