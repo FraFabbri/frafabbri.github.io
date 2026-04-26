@@ -50,6 +50,16 @@
     arxiv: "https://arxiv.org/pdf/2408.06883"
     spotify_research: "https://research.atspotify.com/2025/9/prompt-to-slate-diffusion-models-for-prompt-conditioned-slate-generation"
 
+- date: "2025-06"
+  type: publication
+  highlight: false
+  title: "Policy-as-Prompt: Rethinking Content Moderation in the Age of Large Language Models"
+  venue: "FAccT '25"
+  authors: ["K. Palla", "J. L. Redondo García", "C. Hauff", "F. Fabbri", "H. Lindström", "D. R. Taber", "A. Damianou", "M. Lalmas"]
+  links:
+    arxiv: "https://arxiv.org/abs/2502.18695"
+    paper: "https://dl.acm.org/doi/10.1145/3715275.3732056"
+
 - date: "2024-12"
   type: publication
   highlight: true
@@ -202,11 +212,11 @@
   links:
     arxiv: "https://arxiv.org/pdf/2208.00194.pdf"
 
-- date: "2023-04"
+- date: "2024"
   type: publication
   highlight: false
   title: "GNNUERS: Fairness Explanation in GNNs for Recommendation via Counterfactual Reasoning"
-  venue: "Preprint"
+  venue: "ACM TOIS"
   authors: ["G. Medda", "F. Fabbri", "M. Marras", "L. Boratto", "G. Fenu"]
   links:
     arxiv: "https://arxiv.org/pdf/2304.06182.pdf"
