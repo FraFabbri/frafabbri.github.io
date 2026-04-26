@@ -21,8 +21,6 @@ nav:
     link: /publications/
   - name: Talks
     link: /talks/
-  - name: CV
-    link: /assets/cv.pdf
 
 # Social handles (rendered by _includes/hero.html)
 social:
